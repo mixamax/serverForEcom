@@ -1,0 +1,172 @@
+[
+    {
+        "category": "phone",
+        "id": 1,
+        "name": "iphone 10",
+        "price": 980,
+        "url": "./productsectionimg/iphone10.png"
+    },
+    {
+        "category": "phone",
+        "id": 2,
+        "name": "iphone 11",
+        "price": 1100,
+        "url": "./productsectionimg/iphone11.png"
+    },
+    {
+        "category": "phone",
+        "id": 3,
+        "name": "iphone 8",
+        "price": 780,
+        "url": "./productsectionimg/iphone8.png"
+    },
+    {
+        "category": "phone",
+        "id": 4,
+        "name": "iphone 13",
+        "price": 1500,
+        "url": "./productsectionimg/iphone13.png"
+    },
+
+    {
+        "category": "phone",
+        "id": 5,
+        "name": "motorola ac118",
+        "price": 7500,
+        "url": "./productsectionimg/motorolac118.png"
+    },
+    {
+        "category": "phone",
+        "id": 6,
+        "name": "nokia 1202",
+        "price": 7500,
+        "url": "./productsectionimg/nokia1202.png"
+    },
+
+    {
+        "category": "phone",
+        "id": 7,
+        "name": "nokia 1600",
+        "price": 7500,
+        "url": "./productsectionimg/nokia1600.png"
+    },
+    {
+        "category": "phone",
+        "id": 8,
+        "name": "nokia 1680",
+        "price": 7500,
+        "url": "./productsectionimg/nokia1680.png"
+    },
+    {
+        "category": "phone",
+        "id": 9,
+        "name": "nokia 3310",
+        "price": 10000,
+        "url": "./productsectionimg/nokia3310.jpg"
+    },
+    {
+        "category": "phone",
+        "id": 10,
+        "name": "siemens A52",
+        "price": 9000,
+        "url": "./productsectionimg/siemens-a52.png"
+    },
+    {
+        "category": "phone",
+        "id": 11,
+        "name": "siemens A40",
+        "price": 9000,
+        "url": "./productsectionimg/siemensA40.png"
+    },
+    {
+        "category": "phone",
+        "id": 12,
+        "name": "Sony Ericsson C702",
+        "price": 9000,
+        "url": "./productsectionimg/sonyericssonc702.png"
+    },
+    {
+        "category": "watch",
+        "id": 13,
+        "name": "black watch",
+        "price": 980,
+        "url": "./productsectionimg/blackwatch.png"
+    },
+    {
+        "category": "watch",
+        "id": 14,
+        "name": "heavy watch",
+        "price": 1100,
+        "url": "./productsectionimg/heavywatch.png"
+    },
+    {
+        "category": "watch",
+        "id": 15,
+        "name": "pink watch",
+        "price": 780,
+        "url": "./productsectionimg/pinkwatch.png"
+    },
+    {
+        "category": "watch",
+        "id": 16,
+        "name": "spotted watch",
+        "price": 1500,
+        "url": "./productsectionimg/spottedwatch.png"
+    },
+    {
+        "category": "watch",
+        "id": 17,
+        "name": "belarus",
+        "price": 1700,
+        "url": "./productsectionimg/bel1.png"
+    },
+    {
+        "category": "watch",
+        "id": 18,
+        "name": "Casio A159",
+        "price": 1500,
+        "url": "./productsectionimg/CasioA159.png"
+    },
+    {
+        "category": "watch",
+        "id": 19,
+        "name": "Casio B640",
+        "price": 1600,
+        "url": "./productsectionimg/casiob640.png"
+    },
+    {
+        "category": "watch",
+        "id": 20,
+        "name": "Мелодия",
+        "price": 1600,
+        "url": "./productsectionimg/el1.png"
+    },
+    {
+        "category": "watch",
+        "id": 21,
+        "name": "OMNI",
+        "price": 1600,
+        "url": "./productsectionimg/omni.png"
+    },
+    {
+        "category": "watch",
+        "id": 22,
+        "name": "Montana",
+        "price": 1600,
+        "url": "./productsectionimg/mont.png"
+    },
+    {
+        "category": "watch",
+        "id": 23,
+        "name": "Seiko",
+        "price": 1600,
+        "url": "./productsectionimg/seiko.png"
+    },
+    {
+        "category": "watch",
+        "id": 24,
+        "name": "Illuminator",
+        "price": 1600,
+        "url": "./productsectionimg/sl500.png"
+    }
+]
